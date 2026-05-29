@@ -1,6 +1,6 @@
 # CPU Fault analysis Using Verilog and ModelSim PLI
 
-This repository contains the **fault-analysis** of an academic Network-on-Chip / digital-system verification project, completed in **Spring 2022** by **Marziye Pandi** and **Mostafa Moghaddas**.  
+This repository contains the **fault-analysis** of an academic Network-on-Chip / digital-system verification project, completed in **Spring 2022** by **Mostafa Moghaddas** and **Marziye Pandi**.  
 The project demonstrates stuck-at fault modeling, fault collapsing, and fault injection for a simple CPU design using Verilog HDL and ModelSim/QuestaSim PLI routines.
 
 The main goal is to evaluate how permanent stuck-at faults in a gate-level CPU netlist can be generated, injected, simulated, and detected by comparing a fault-free model against a faulty model.
