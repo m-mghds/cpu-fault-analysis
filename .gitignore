@@ -1,0 +1,33 @@
+# ModelSim / QuestaSim generated files
+work/
+transcript
+vsim.wlf
+*.wlf
+*.vcd
+*.log
+*.jou
+*.ini
+modelsim.ini
+
+# Compilation / simulation outputs
+*.o
+*.obj
+*.exe
+*.bak
+*.tmp
+
+# Generated reports and temporary outputs
+coverage/
+results/
+reports/
+*.rpt
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
